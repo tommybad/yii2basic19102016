@@ -42,7 +42,7 @@ AppAsset::register($this);
     
     $report = [
         ['label'=>'<span class="glyphicon glyphicon-file"></span> ข้อมูลต่างๆ','url'=>['/first1/index']],
-        ['label'=>'<span class="glyphicon glyphicon-file"></span> รายงานที่ 2','url'=>['/site/report2']]    
+        ['label'=>'<span class="glyphicon glyphicon-file"></span> สถานะคอมพิวเตอร์','url'=>['/com-status/index']]    
     ];    
     
     echo Nav::widget([
