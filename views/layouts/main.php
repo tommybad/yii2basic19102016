@@ -41,7 +41,7 @@ AppAsset::register($this);
     ]);
     
     $report = [
-        ['label'=>'<span class="glyphicon glyphicon-file"></span> รายงานที่ 1','url'=>['/site/report1']],
+        ['label'=>'<span class="glyphicon glyphicon-file"></span> ข้อมูลต่างๆ','url'=>['/first1/index']],
         ['label'=>'<span class="glyphicon glyphicon-file"></span> รายงานที่ 2','url'=>['/site/report2']]    
     ];    
     
